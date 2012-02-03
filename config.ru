@@ -1,2 +1,3 @@
-require 'main'
-run Sinatra::Fourapp
+require 'rubygems'
+require './foursquarething'
+run Sinatra::Application
